@@ -8,7 +8,7 @@ import android.support.annotation.Nullable;
 import android.database.Cursor;
 
 public class myDataBase extends SQLiteOpenHelper {
-    private static final String DATABASE_NAME = "my.db";
+    private static final String DATABASE_NAME = "200482F.db";
 
     private static final String TABLE_NAME_ACCOUNT = "account";
     private static final String ACCOUNT_NO = "accountno";
